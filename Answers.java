@@ -1,7 +1,7 @@
 
 public class Answers {
 	public static String[] answers = {
-			"Berlin",
+			"Beer",
 			"Three",
 			"Yellow, red, black",
 	};
