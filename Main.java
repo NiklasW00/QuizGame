@@ -11,7 +11,6 @@ public class Main {
         //Get Questions and Answers from the other files
         Questions obj = new Questions(input);
         Answers obj2 = new Answers(input, totalScore);
-        // Print out score
-        System.out.println("Final score: " + totalScore);
+     
     }
 }
